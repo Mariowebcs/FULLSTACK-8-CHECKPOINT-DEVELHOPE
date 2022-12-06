@@ -28,7 +28,6 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    border: 1px solid red;
 }
 
 .aside-header {
@@ -75,7 +74,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
 }
 
 .aside-footer {
@@ -91,7 +90,6 @@ body {
 
 .main-content {
     flex-grow: 1;
-    border: 1px solid red;
 }
 
 .container-col-main {
